@@ -1,0 +1,16 @@
+.nav_list {
+  display: flex;
+  align-items: center;
+}
+
+.nav_list .nav_item {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+.nav_list .nav_item:hover {
+  padding-left: 4px;
+  padding-right: 4px;
+  cursor: pointer;
+  text-decoration: underline 2px orange;
+}
